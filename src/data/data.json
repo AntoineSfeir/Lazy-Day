@@ -1,0 +1,149 @@
+{
+  "Header": {
+    "title": "Lazy Day!",
+    "paragraph": "Lazy Day makes home cleaning effortless. Our team of trained, professional employees handles the scrubbing, dusting, and shining—while we manage everything behind the scenes. Whether it’s a deep clean, routine visit, or move-out service, we deliver a spotless home without the stress."
+  },
+  "About": {
+    "paragraph": "At Lazy Day, we believe everyone deserves a break — a real, guilt-free lazy day. Our story began with one simple idea: life is busy, messy, and sometimes overwhelming. We created Lazy Day to give you back time, energy, and peace of mind. Our full-time, professional team treats your home with care, so you can kick back and enjoy life without worrying about cleaning. Let’s be honest — who doesn’t love a good lazy day?",
+     "Why": [
+      "Dedicated Employees, Not Contractors: consistent quality, reliability, and accountability every time we clean your home.",
+      "Flexible & Personalized Service: customized cleaning to fit your needs.",
+      "Transparent Pricing: no hidden fees or surprise charges — you know exactly what you’re paying for.",
+      "Customer-Focused: your satisfaction is our top priority."
+    ],
+    "Why2": [
+      "Trained, professional team",
+      "Stress-free home cleaning",
+      "Eco-friendly and pet-friendly approach",
+      "Full-service cleaning — from quick tidy-ups to deep cleans"
+    ] 
+  },
+  "Gallery": [
+    {
+      "title": "Sparkling Kitchens",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Spotless Living Rooms",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Immaculate Bathrooms",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Pristine Bedrooms",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Deep Cleans",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    }
+      ],
+    "Services": [
+    {
+      "icon": "fa fa-home",
+      "name": "Standard Cleaning",
+      "text": "Routine cleaning of your home — dusting, vacuuming, and general tidying to keep your space fresh and inviting."
+    },
+    {
+      "icon": "fa fa-tasks",
+      "name": "Deep Cleaning",
+      "text": "A thorough, top-to-bottom clean for when your home needs a little extra love — including scrubbing hard-to-reach areas."
+    },
+    {
+      "icon": "fa fa-sign-out",
+      "name": "Move-In/Out Cleaning",
+      "text": "Stress-free cleaning when moving — we’ll get your home sparkling and ready for its next chapter."
+    },
+    {
+      "icon": "fa fa-plus",
+      "name": "Optional Add-Ons",
+      "text": "Fridge cleaning, laundry, or other special add-ons to make your cleaning truly tailored."
+    },
+    {
+      "icon": "fa fa-calculator",
+      "name": "Square Footage Pricing",
+      "text": "Transparent pricing based on your home’s size — no surprises, just clear and fair costs."
+    },
+    {
+      "icon": "fa fa-calendar",
+      "name": "Book Now / Get a Quote",
+      "text": "Easy online booking and clear quotes so you can schedule your cleaning stress-free."
+    }
+  ],
+     "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lazy Day truly lives up to its name! My home has never looked better, and I finally have time to enjoy it. Highly recommend!\"",
+      "name": "Emily R."
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"The team was professional, kind, and incredibly thorough. They took care of everything while I relaxed!\"",
+      "name": "Michael S."
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"I love how easy it was to book and customize my cleaning. Lazy Day gave me my weekends back!\"",
+      "name": "Sarah W."
+    }
+  ],
+    "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Mehmet Ozen",
+      "job": "Founder & Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Operations Manager"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Cleaner"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Customer Support Specialist"
+    }
+  ],
+  "Contact": {
+    "address": "4321 YoMAMA St, Lafayette, LA 69420 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@lazyday.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+     "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Easy Communication",
+      "text": "Chat, email, or call us anytime — we’re here to help and make your experience as seamless as possible."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Satisfaction Guarantee",
+      "text": "If you’re not 100% happy, let us know within 24 hours and we’ll make it right — at no extra charge."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Trained & Vetted Employees",
+      "text": "Our team members are full-time employees — not contractors — ensuring consistent quality and care."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Eco-Friendly Products",
+      "text": "We use eco-friendly, pet-safe cleaning products to keep your home and the planet healthy."
+    }
+  ]
+ }
