@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lazy-Day/static/css/main.ae42ac5f.css",
+    "main.js": "/Lazy-Day/static/js/main.b77d11d5.js",
+    "index.html": "/Lazy-Day/index.html",
+    "main.ae42ac5f.css.map": "/Lazy-Day/static/css/main.ae42ac5f.css.map",
+    "main.b77d11d5.js.map": "/Lazy-Day/static/js/main.b77d11d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.b77d11d5.js"
+  ]
+}
