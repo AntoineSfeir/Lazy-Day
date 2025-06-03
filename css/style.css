@@ -604,3 +604,27 @@ label {
     margin: 50px 0;
   }
 }
+
+.join-us-section {
+  margin-top: 60px;
+  padding: 30px;
+  background-color: #f9f9f9;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
+}
+
+.join-us-section h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.join-us-section ul {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.join-us-section .btn {
+  font-weight: bold;
+  padding: 12px 24px;
+}
+
