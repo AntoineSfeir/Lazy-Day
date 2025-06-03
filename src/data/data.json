@@ -81,17 +81,17 @@
     {
       "img": "img/testimonials/01.jpg",
       "text": "\"Lazy Day truly lives up to its name! My home has never looked better, and I finally have time to enjoy it. Highly recommend!\"",
-      "name": "Emily R."
+      "name": "Emily R., Lafayette, LA"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"The team was professional, kind, and incredibly thorough. They took care of everything while I relaxed!\"",
-      "name": "Michael S."
+      "text": "\"I've tried several cleaning services, but Lazy Day is the only one that actually feels like a real team - they're friendly, detail-oriented, and consistent\"",
+      "name": "Mark D., Youngsville, LA"
     },
     {
       "img": "img/testimonials/03.jpg",
       "text": "\"I love how easy it was to book and customize my cleaning. Lazy Day gave me my weekends back!\"",
-      "name": "Sarah W."
+      "name": "Sarah W., Lafayette, LA"
     }
   ],
     "Team": [
@@ -117,7 +117,7 @@
     }
   ],
   "Contact": {
-    "address": "4321 YoMAMA St, Lafayette, LA 69420 ",
+    "address": "4321 YoMAMAaBigOleBitch St, Lafayette, LA 696969 ",
     "phone": "+1 123 456 1234",
     "email": "info@lazyday.com",
     "facebook": "fb.com",
@@ -140,10 +140,11 @@
       "title": "Trained & Vetted Employees",
       "text": "Our team members are full-time employees — not contractors — ensuring consistent quality and care."
     },
-    {
-      "icon": "fa fa-magic",
-      "title": "Eco-Friendly Products",
-      "text": "We use eco-friendly, pet-safe cleaning products to keep your home and the planet healthy."
-    }
+{
+  "icon": "fa fa-star",
+  "title": "Premium Products",
+  "text": "We use high-quality cleaning products trusted by professionals for a spotless, polished finish every time."
+}
   ]
  }
+
