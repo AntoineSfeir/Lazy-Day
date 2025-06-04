@@ -208,7 +208,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
+  background: url("/img/intro-bg.jpg") center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -350,23 +350,6 @@ header .intro-text {
 #services .service-desc {
   margin-bottom: 40px;
 }
-#services .service-item {
-  padding: 20px;
-}
-
-#services .service-item i.fa {
-  display: inline-block;
-  font-size: 42px;
-  width: 100px;
-  height: 100px;
-  padding: 30px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
-  border-radius: 50%;
-  color: white;
-  margin-bottom: 20px;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-}
-
 /* Portfolio Section */
 #portfolio {
   padding: 100px 0;
@@ -644,4 +627,3 @@ label {
   font-weight: bold;
   padding: 12px 24px;
 }
-

@@ -17,9 +17,13 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            Lazy Day
-          </a>{" "}
+         <a className="navbar-brand page-scroll" href="#page-top" style={{ display: 'flex', alignItems: 'center', gap: '10px', height: '50px'}}>
+            <img
+                src={`${process.env.PUBLIC_URL}/img/Lazy_Day_logo_black.png`}
+                alt="Lazy Day Logo"
+                style={{ height: '250px', marginTop: '35px', objectFit: 'contain' }}
+            />
+        </a>
         </div>
 
         <div
