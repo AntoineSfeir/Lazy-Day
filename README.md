@@ -4,7 +4,7 @@
 
 ### 🌟 Live Demo
 
-[**Check it out here!**](https://react-landing-page-template-93ne.vercel.app/) *(Replace with your actual live link)*
+[**Check it out here!**](https://antoinesfeir.github.io/Lazy-Day/) 
 
 ---
 
