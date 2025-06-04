@@ -1,6 +1,6 @@
 {
   "name": "lazy-day",
-  "homepage": "https://antoinesfeir.github.io/Lazy-Day",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
