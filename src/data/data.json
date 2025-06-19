@@ -21,28 +21,28 @@
   "Gallery": [
     {
       "title": "Sparkling Kitchens",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "largeImage": "img/kitchen.webp",
+      "smallImage": "img/kitchen.webp"
     },
     {
       "title": "Spotless Living Rooms",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "largeImage": "img/living_room.webp",
+      "smallImage": "img/living_room.webp"
     },
     {
       "title": "Immaculate Bathrooms",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "largeImage": "img/bathroom.webp",
+      "smallImage": "img/bathroom.webp"
     },
     {
       "title": "Pristine Bedrooms",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "largeImage": "img/bedroom.webp",
+      "smallImage": "img/bedroom.webp"
     },
     {
-      "title": "Deep Cleans",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Clean and Organized Garages",
+      "largeImage": "img/garage.jpg",
+      "smallImage": "img/garage.jpg"
     }
       ],
     "Services": [
